@@ -14,7 +14,7 @@
             class="fixed inset-0 z-10 overflow-y-auto flex items-center justify-center"
             style="display: none;"
     >
-        <div class="flex items-end justify-center min-h-dvh px-4 pt-4 pb-10 text-center sm:block sm:p-0">
+        <div class="flex justify-center items-center min-h-dvh px-4 pt-4 pb-10 text-center sm:p-0">
             <div
                     x-show="show"
                     x-on:click="closeModalOnClickAway()"
