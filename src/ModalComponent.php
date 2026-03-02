@@ -18,7 +18,7 @@ abstract class ModalComponent extends Component implements Contract
         'sm' => 'sm:max-w-sm',
         'md' => 'sm:max-w-md',
         'lg' => 'sm:max-w-md md:max-w-lg',
-        'xl' => 'sm:max-w-md md:max-w-xl',
+        'xl' => 'sm:max-w-6xl',
         '2xl' => 'sm:max-w-md md:max-w-xl lg:max-w-2xl',
         '3xl' => 'sm:max-w-md md:max-w-xl lg:max-w-3xl',
         '4xl' => 'sm:max-w-md md:max-w-xl lg:max-w-3xl xl:max-w-4xl',
